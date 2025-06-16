@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# 大量生成物
+outputs/
+*.jsonl
+*.zip
+
+# Conda / venv
+.env
+.venv
